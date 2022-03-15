@@ -1,0 +1,4 @@
+Bajs	Romans	Henrik	10	2001-2-12
+Bible	Skräck	Eva	15,4	2001-2-12
+Epic	Komdei	Peter	55,4	2001-2-12
+Epic2	Skräck	Peter	15	2001-2-12
