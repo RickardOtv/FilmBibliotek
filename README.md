@@ -1,6 +1,6 @@
 # 🎬 FilmBibliotek
 
-A simple movie library app built in C# for a school project. Basically a digital way to keep track of your movie collection!
+A simple movie library app built in C# for a school project (University of Borås). Basically a digital way to keep track of your movie collection!
 
 This is "Grupp 2's" updated version of our class project.
 
